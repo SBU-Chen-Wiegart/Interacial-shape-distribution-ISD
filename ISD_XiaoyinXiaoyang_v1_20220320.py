@@ -2,7 +2,7 @@
 """
 Created on Thu Mar 17 16:42:11 2022
 
-@author: Xiaoyin Zheng, Xiaoyang Liu
+@author: Xiaoyin Zheng, Xiaoyang Liu, Yu-chen Karen Chen-Wiegart
 """
 
 import numpy as np
