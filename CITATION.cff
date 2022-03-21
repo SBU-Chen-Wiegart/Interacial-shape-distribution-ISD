@@ -1,14 +1,17 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "Lisa"
-  given-names: "Mona"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-- family-names: "Bot"
-  given-names: "Hew"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-title: "My Research Software"
-version: 2.0.4
-doi: 10.5281/zenodo.1234
+- family-names: "Xiaoyin"
+  given-names: "Zheng"
+  orcid: "https://orcid.org/0000-0001-8358-1450"
+- family-names: "Xiaoyang"
+  given-names: "Liu"
+  orcid: "https://orcid.org/0000-0002-9326-2135"
+- family-names: "Yu-chen Karen"
+  given-names: "Chen-Wiegart"
+  orcid: "https://orcid.org/0000-0003-4445-2159"
+title: "Interfacial shape distribution calculation"
+version: 1.0.0
+#doi: 
 date-released: 2022-03-21
 url: "https://github.com/SBU-Chen-Wiegart/Interacial-shape-distribution-ISD-"
