@@ -10,6 +10,7 @@ Under ‘Input section:’, add necessary information
 5. Adjust xbins and ybins based on the data
 
 **Acknowledgement**
+
 We kindly appreciate that you cite the code and the following article:
 1. Kammer, D. Three-Dimensional Analysis and Morphological Characterization of Coarsened Dendritic Microstructures. Northwestern University, 2006.
 
