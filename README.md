@@ -9,7 +9,7 @@ Under ‘Input section:’, add necessary information
 4. Add feature size, unit needs to be consistent with the pixel size. If not need, leave it as 1. The X and Y axis title needs to be changed to k1 and k2.
 5. Adjust xbins and ybins based on the data
 
-Acknowledgement
+**Acknowledgement**
 We kindly appreciate that you cite the code and the following article:
 1. Kammer, D. Three-Dimensional Analysis and Morphological Characterization of Coarsened Dendritic Microstructures. Northwestern University, 2006.
 
