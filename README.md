@@ -14,7 +14,7 @@ Under ‘Input section:’, add necessary information
 **Acknowledgement**
 
 We kindly appreciate that you cite this code and the following article when you use the program:
-1. Zheng, X., Liu, X., & Chen-Wiegart, Y. K. (2022). Interfacial shape distribution calculation (Version 1.0.0) [Computer software]. https://github.com/SBU-Chen-Wiegart/Interacial-shape-distribution-ISD
+1. Xiaoyin Zheng, Xiaoyang Liu, Yu-chen Karen Chen-Wiegart (2022). Interfacial shape distribution calculation (Version 1.0.0) [Computer software]. https://github.com/SBU-Chen-Wiegart/Interacial-shape-distribution-ISD
 2. Kammer, D. Three-Dimensional Analysis and Morphological Characterization of Coarsened Dendritic Microstructures. Northwestern University, 2006.
 
 
