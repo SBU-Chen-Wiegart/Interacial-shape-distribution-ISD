@@ -1,4 +1,4 @@
-# Interacial-shape-distribution-ISD-
+# Interacial-shape-distribution-ISD
 
 Interfacial shape distribution (ISD) calculation from meshed 3D datasets exported from Avizo/Amira.
 
