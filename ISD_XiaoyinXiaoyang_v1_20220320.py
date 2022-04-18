@@ -122,10 +122,12 @@ if __name__ == "__main__":
     triangles = load_data(filename_mesh, 'Triangles')
     Areas = areas(vertices, triangles)
     curvature_min, curvature_max = get_curvatures(filename_curvatures)
+    curvature_min_times_featuresize = [element * featuresize for element in curvature_min]
+    curvature_max_times_featuresize = [element * featuresize for element in curvature_max]
     
     
     
-    H, xedges, yedges = np.histogram2d(curvature_max*featuresize, curvature_min*featuresize, normed=True, bins=[xbins,ybins], weights=Areas)
+    H, xedges, yedges = np.histogram2d(curvature_max_times_featuresize, curvature_min_times_featuresize, normed=True, bins=[xbins,ybins], weights=Areas)
     H = H/np.sum(H)*100
     
     plt.figure(figsize=(12, 8))
